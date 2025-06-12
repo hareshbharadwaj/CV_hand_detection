@@ -1,0 +1,1 @@
+# CV_hand_detection
